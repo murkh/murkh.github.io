@@ -34,9 +34,15 @@ Here’s a snapshot of my GitHub activity:
 
 - **Total Repositories:** `50+` (public & private)
 - **Total Commits (past year):** `300+`
-- **Daily Streaks & Contributions:** ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=murkh)
-- **Commit Activity Graph:** ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murkh&theme=github)
-- **GitHub Profile Stats:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murkh&show_icons=true&count_private=true&hide=prs&theme=default)
+- **Daily Streaks & Contributions:** 
+
+    ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=murkh)
+- **Commit Activity Graph:** 
+
+    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murkh&theme=github)
+- **GitHub Profile Stats:** 
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murkh&show_icons=true&count_private=true&hide=prs&theme=default)
 
 ---
 
