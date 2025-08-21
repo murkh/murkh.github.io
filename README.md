@@ -9,9 +9,9 @@ I specialize in **FastAPI, SQLAlchemy, PostgreSQL, and MongoDB**, but my experti
 
 ## 💼 Professional Snapshot
 
-- **Anervea** — Backend Developer (Jun 2025 – Present)
-- **ReflectML** — Python Developer (Aug 2024 – May 2025)
-- **Baxture** — Backend Engineer (Jan 2024 – Aug 2024)
+- **Anervea** — Senior Backend Developer (Jun 2025 – Present)
+- **ReflectML** — Senior Backend Developer (Aug 2024 – May 2025)
+- **Baxture** — Senior Associate (Jan 2024 – Aug 2024)
 - **Invimatic** — Software Engineer (Feb 2022 – Nov 2023)
 
 ---
